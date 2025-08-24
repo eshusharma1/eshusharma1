@@ -33,7 +33,7 @@
 ---
 
 ## 🌐 Connect with Me
-- LinkedIn: [Your LinkedIn Link Here]  
+- LinkedIn:  https://www.linkedin.com/in/eshu-sharma-b52254239
 - GitHub: [https://github.com/eshusharma1](https://github.com/eshusharma1)  
 - Email: **eshusharma747@gmail.com**  
 
